@@ -1,0 +1,10 @@
+{
+    "123": {
+        "id": 123,
+        "nombre": "Zapato",
+        "categoria": "Zapatos",
+        "precio": 123.0,
+        "stock": 2,
+        "estado": "Nuevo"
+    }
+}
